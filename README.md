@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sunil1519G
+- 👋 Hi, I’m @sunil1519G.
 - 👀 I’m interested in new technologies.
-- 🌱 I’m currently learning SpringBoot and Microservices
+- 🌱 I’m currently learning SpringBoot and Microservices.
 - 💞️ I’m looking to collaborate on SpringBoot and Microservices projects.
 - 📫 How to reach me - sunil10aps@gmail.com
 
